@@ -1,7 +1,2 @@
-Meu primeiro sistema no git
+Meu primeiro sistema no git (alterado e atualizado!)
 
-Alterar o que quiser
-
-Alteracao feita no master
-
-Linha adicionada em teste
